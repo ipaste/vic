@@ -51,7 +51,7 @@ import (
 )
 
 const (
-	defaultMaxInFlight = 16
+	defaultMaxInFlight = 120
 )
 
 // Config contains the configuration used to create a Session.
